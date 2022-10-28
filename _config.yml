@@ -1,11 +1,16 @@
-remote_theme: b2a3e8/jekyll-theme-console
+title: 'imlokisenpai.github.io'
+description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: "/console"
+url: "https://imlokisenpai.github.io"
+
 header_pages:
   - index.md
   - about.md
 
-style: hacker # dark (default), light or hacker
-listen_for_clients_preferred_style: true # false (default) or true
+style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-google_analytics: UA-NNNNNNNN-N
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-consol
