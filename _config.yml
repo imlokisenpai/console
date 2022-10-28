@@ -1,5 +1,3 @@
-remote_theme: b2a3e8/jekyll-theme-consol
-
 title: 'imlokisenpai.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
 baseurl: "/console"
@@ -7,11 +5,14 @@ url: "https://imlokisenpai.github.io"
 
 header_pages:
   - index.md
+  - peter.md
   - about.md
+  - contact.md
 
 style: hacker
 
 footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
 # Build settings
-
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
