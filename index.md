@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# HELLO GUYS
+# Database 
 
-me iz okie
+this page contain some stuff like i donno
