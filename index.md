@@ -4,6 +4,7 @@ layout: home
 permalink: /
 ---
 
-# Database 
+# Nothing much, me talking about myself  
 
-this page contain some stuff like i donno
+https://github.com/imlokisenpai/console/assets/114554103/226b1896-2d97-4304-8318-72d7104f8d22
+
