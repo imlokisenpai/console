@@ -4,4 +4,5 @@ layout: home
 permalink: /
 ---
 
-# Nothing much, me talking about myself  
+# Nothing much, me talking TO myself  
+
