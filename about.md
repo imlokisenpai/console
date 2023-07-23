@@ -4,6 +4,6 @@ title: /about
 permalink: /about/
 ---
 
-# hii guys
+# IT'S A WAY TO TALK WITH MY FUTURE SELF
 
-im doing fine
+I KNOW LIFE BEEN HARD FOR US ... SO JUST ENJOY YOUSELF ...  I'LL BE THERE FOR YOU OR PARHAPS FOR ME xD.... WORK ON YOUSELF AND MAKE A BRIGHT FUTURE FOR US ...
