@@ -9,7 +9,7 @@ header_pages:
   - about.md
   - contact.md
 
-style: hacker
+style: dark
 
 footer: 'NOTHING <a href="https://imlokisenpai.github.io">HERE</a>'
 
